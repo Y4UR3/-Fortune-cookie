@@ -31,11 +31,11 @@
     font-size: 1.1rem;
     border: none;
     border-radius: 0.8em;
-    background-color: #0081a7;
+    background-color: #926eff;
     color: white;
     transition: transform 100ms ease, box-shadow 100ms ease;
 }
 .app__btn:hover{
     transform: scale(1.1);
-    box-shadow: 0 0 1em #336a7a;
+    box-shadow: 0 0 1em #210672;
 }

@@ -22,7 +22,8 @@ button {
 .footer{
   text-align: center;
   justify-content: center;
-  background-color: #0081a7;
+  background-color: #926eff;
+  color: white;;
   min-height: 5vh;
   color: white;
 }
