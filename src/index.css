@@ -19,3 +19,10 @@ button {
   font-family: inherit; 
   cursor: pointer;
 }
+.footer{
+  text-align: center;
+  justify-content: center;
+  background-color: #0081a7;
+  min-height: 5vh;
+  color: white;
+}
