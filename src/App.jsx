@@ -17,6 +17,9 @@ function App() {
   const objstyle = {
     backgroundImage: `url(/fondo${quotePhoto}.jpg)`
   }
+  const fondo = {
+    backgroundImage: `url(/rectangle1.svg)`
+  }
 
   return (
     <div className='app' style={objstyle}>

@@ -9,7 +9,7 @@ const Button = ({setQuoteRandom, setquotePhoto}) => {
      setquotePhoto(getRandomFromArr(arrImage))  
     }
   return (
-    <button className="app__btn" onClick={handleChangePhrase}>Ver otro</button>
+    <button className="app__btn" onClick={handleChangePhrase}>Ver otra frase</button>
   )
 }
 
