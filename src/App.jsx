@@ -26,7 +26,10 @@ function App() {
       <h1 className='app__title' >Galleta de la fortuna</h1>
       <div className='app__card' > 
         <Phrase quoteRandom={quoteRandom}/>
-        <Button 
+        
+      </div>
+      <div>
+      <Button 
         setQuoteRandom={setQuoteRandom}
         setquotePhoto={setquotePhoto} />
       </div>
